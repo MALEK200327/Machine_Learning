@@ -1,0 +1,1 @@
+to see how good is the model run  the train.py file first then evaluate.py
